@@ -55,7 +55,7 @@ Vérifier : git status
 ## 8. Ajouter et commit
 
     git add students.txt
-    git commit -m "Ajout du X à côté de mon nom"
+    git commit -m "Update students.txt : Ajout du X à côté de mon nom"
 
 Vérifier : git status
 
